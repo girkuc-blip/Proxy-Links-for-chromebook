@@ -1,0 +1,47 @@
+Step 1: Open Google Sites
+
+Go to: https://sites.google.com
+
+Sign in with your Google account.
+
+Step 2: Create a New Site
+
+Click the “+” (Blank) button to create a new website.
+
+Give your site a name (top-left corner).
+
+Add a page title by clicking on the header area.
+
+Step 3: Add Content
+
+On the right side, you’ll see the Insert panel:
+
+Add Text boxes
+
+Add Images
+
+Embed YouTube videos
+
+Add Buttons
+
+Insert Layouts
+
+Just click an option and customize it.
+
+Step 4: Add New Pages
+
+Click the Pages tab (right side).
+
+Click the + button.
+
+Name your new page.
+
+Step 5: Publish Your Website
+
+Click the Publish button (top right).
+
+Choose your website address.
+
+Click Publish again.
+
+Your website is now live 🎉
